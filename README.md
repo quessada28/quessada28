@@ -13,7 +13,7 @@
 
 ### What i usualy isten on Spotify  🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/track/6SRsiMl7w1USE4mFqrOhHC?si=a159b88ab73c4529)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify?user=31e67xgkn74v5idcqzmlzmc63bcy)](https://open.spotify.com/user/31e67xgkn74v5idcqzmlzmc63bcy)
 ---
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Quessada28&repo=Quessada28&countColorcountColor&countColor=%237B1E7B"/>
