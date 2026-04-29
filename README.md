@@ -13,7 +13,8 @@
 
 ### What i usualy isten on Spotify  🎧
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31e67xgkn74v5idcqzmlzmc63bcy&cover_image=true&theme=default&show_offline=false&background_color=000000)](https://github.com/kittinan/spotify-github-profile)
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/31e67xgkn74v5idcqzmlzmc63bcy)
+
 ---
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Quessada28&repo=Quessada28&countColorcountColor&countColor=%237B1E7B"/>
