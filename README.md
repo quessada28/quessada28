@@ -16,10 +16,10 @@
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/track/6SRsiMl7w1USE4mFqrOhHC?si=a159b88ab73c4529)
 ---
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Quessada28&repo=Quessada28&countColorcountColor&countColor=%237B1E7B"/>
 
 ### Contact with me 
-[<img align="left" alt="quesadamonterol@gmail.com" width="40px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />][email]
+[<img align="left" alt="quesadamonterol@gmail.com" width="40px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />][email] quesadamonterol@gmail.com
 [<img align="left" alt="luiss.que | Instagram" width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />][instagram]
 
 [email]: mailto:quesadamonterol@gmail.com
@@ -54,10 +54,10 @@
   
   <div align="center"> 
      <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bgstatic&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Quessada28&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
     </a>
     <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bgstatic&theme=react&line_height=40&hide=css"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quessada28&theme=react&line_height=40&hide=css"/>
     </a>
 </div>
   
