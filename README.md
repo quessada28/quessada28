@@ -3,15 +3,13 @@
 
 ## I'm a Student, currently in my second year of the Information Systems Engineering at the UNA.
 
--  I'm currently working on web development technologies like C++, but i know Packet Tracer. 
+-  I'm currently working on learn new languages, i domain C++, Packet Tracer, and now im learning Phyon. 
 -  I'm currently learning everything about AI technologies, and how to use it as an implement. 
 -  Fun fact: Im a scout from group #11.
 
 ---
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-### What i usualy isten on Spotify  🎧
+### My Spotify account 
 
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/31e67xgkn74v5idcqzmlzmc63bcy)
 
@@ -20,7 +18,7 @@
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Quessada28&repo=Quessada28&countColorcountColor&countColor=%237B1E7B"/>
 
 ### Contact with me 
-[<img align="left" alt="quesadamonterol@gmail.com" width="40px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />][email] quesadamonterol@gmail.com
+[<img align="left" alt="quesadamonterol@gmail.com" width="40px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />][email]
 [<img align="left" alt="luiss.que | Instagram" width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />][instagram]
 
 [email]: mailto:quesadamonterol@gmail.com
@@ -39,6 +37,14 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+![Google Drive](http://img.shields.io/badge/-Google%20Drive-4285F4?style=flat-square&logo=googledrive&logoColor=ffffff)
+![Office 365](http://img.shields.io/badge/-Office%20365-0078D4?style=flat-square&logo=microsoft-office&logoColor=ffffff)
+
+
+### Some apps that I use to desing random things
+
+![Canva](http://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=ffffff)
+![Pinterest](http://img.shields.io/badge/-Pinterest-E60023?style=flat-square&logo=pinterest&logoColor=ffffff)
 
 ### IA 
 ![Claude](http://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=ffffff)
@@ -65,8 +71,6 @@
 <br/>
 
 ---
-
- ### ⭐️ From [Bgstatic](https://github.com/Bgstatic) ### 
   
 ---
 
