@@ -3,8 +3,8 @@
 
 ## I'm a Student, currently in my second year of the Information Systems Engineering at the UNA.
 
--  I’m currently working on web development technologies like C++, but i know Packet Tracer. 
--  I’m currently learning everything about AI technologies, and how to use it as an implement. 
+-  I'm currently working on web development technologies like C++, but i know Packet Tracer. 
+-  I'm currently learning everything about AI technologies, and how to use it as an implement. 
 -  Fun fact: Im a scout from group #11.
 
 ---
@@ -13,17 +13,17 @@
 
 ### What i usualy isten on Spotify  🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/track/6SRsiMl7w1USE4mFqrOhHC?si=a159b88ab73c4529)
 ---
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 
 ### Contact with me 
-[<img align="left" alt="quesadamonterol@gmail.com" width="40px" src="https://i.pinimg.com/originals/1d/46/dd/1d46dda5b99cf1a91a1e2377fb948b36.gif" />][email]
-[<img align="left" alt="luiss.que | Instagram" width="40px" src="https://thumbs.gfycat.com/OrnateOrneryFoal-max-1mb.gif" />][instagram]
+[<img align="left" alt="quesadamonterol@gmail.com" width="40px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />][email]
+[<img align="left" alt="luiss.que | Instagram" width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />][instagram]
 
-[email]: quesadamonterol@gmail.com
-[instagram]: https://instagram.com/luiss.que
+[email]: mailto:quesadamonterol@gmail.com
+[instagram]: https://www.instagram.com/luiss.que/
 
 <br />
 
@@ -59,18 +59,17 @@
     <a href="">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bgstatic&theme=react&line_height=40&hide=css"/>
     </a>
-</div
+</div>
   
 <br/>
 
 ---
 
  ### ⭐️ From [Bgstatic](https://github.com/Bgstatic) ### 
- 
+  
 ---
 
 
 [website]: http://bilgehangecici.site/
 [instagram]: https://www.instagram.com/bilgehangecici
 [linkedin]: https://www.linkedin.com/in/bilgehan-geçici-8b368614a/
-
