@@ -3,9 +3,9 @@
 
 ## I'm a Student, currently in my second year of the Information Systems Engineering at the UNA.
 
--  I'm currently working on learn new languages, i domain C++, Packet Tracer, and now im learning Phyon. 
+-  I'm currently working on learn new languages, i domain C++, Packet Tracer, and now im learning Python. 
 -  I'm currently learning everything about AI technologies, and how to use it as an implement. 
--  Fun fact: Im a scout from group #11.
+-  Fun fact: I'm a scout from group #11.
 
 ---
 
